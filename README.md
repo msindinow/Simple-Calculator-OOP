@@ -1,5 +1,6 @@
 # Simple-Calculator-OOP
-def divide(self):
+
+    def divide(self):
         number = self.label.text()
         self.label.setText(number + "/")
 
